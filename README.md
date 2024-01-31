@@ -54,6 +54,9 @@ Download WebStorm from [JetBrains](https://www.jetbrains.com/webstorm/download/)
 ---
 
 *References:*
+- [Intro To GitHub and Webstorm Powerpoint](https://github.com/amycruiz/A02/files/14117967/IntroToGitHub-20190318.pptx)
 - [WebStorm Download](https://www.jetbrains.com/webstorm/download/)
 - [Glossary Definitons](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
+
+
 
