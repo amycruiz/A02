@@ -1,4 +1,4 @@
-# A02 Repository - Git, WebStorm, and GitHub Tutorial
+# A02 | Git, WebStorm, and GitHub Tutorial
 
 ## Part 1: Directions on Using WebStorm
 
@@ -55,5 +55,5 @@ Download WebStorm from [JetBrains](https://www.jetbrains.com/webstorm/download/)
 
 *References:*
 - [WebStorm Download](https://www.jetbrains.com/webstorm/download/)
-- [Glossary Definitons](https://www.w3schools.com/git/git_branch.asp?remote=github#:~:text=In%20Git%2C%20a%20branch%20is,update%20the%20design%20on%20it.)
+- [Glossary Definitons](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
 
