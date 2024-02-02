@@ -27,29 +27,29 @@ Download WebStorm from [JetBrains](https://www.jetbrains.com/webstorm/download/)
 
 ## Part 2: Glossary of Terms
 
-**Branch:** A separate line of development, often used for working on specific features or fixing issues.
+- **Branch:** A separate line of development, often used for working on specific features or fixing issues.
 
-**Clone:** Making a local copy of a project from an online source, usually GitHub.
+- **Clone:** Making a local copy of a project from an online source, usually GitHub.
 
-**Commit:** Saving changes to your project with a brief description of what you did.
+- **Commit:** Saving changes to your project with a brief description of what you did.
 
-**Fetch:** Getting updates from an online project without merging them into your own work.
+- **Fetch:** Getting updates from an online project without merging them into your own work.
 
-**GIT:** A tool that tracks changes in your code during software development.
+- **GIT:** A tool that tracks changes in your code during software development.
 
-**GitHub:** An online platform for hosting and collaborating on code repositories.
+- **GitHub:** An online platform for hosting and collaborating on code repositories.
 
-**Merge:** Combining changes from different lines of development into the main project.
+- **Merge:** Combining changes from different lines of development into the main project.
 
-**Merge Conflict:** A situation where Git needs your help to combine changes made in different parts of the code.
+- **Merge Conflict:** A situation where Git needs your help to combine changes made in different parts of the code.
 
-**Push:** Sharing your local changes with the online project, usually on GitHub.
+- **Push:** Sharing your local changes with the online project, usually on GitHub.
 
-**Pull:** Getting updates from an online project and merging them into your own work.
+- **Pull:** Getting updates from an online project and merging them into your own work.
 
-**Remote:** A version of a project hosted online, often on GitHub.
+- **Remote:** A version of a project hosted online, often on GitHub.
 
-**Repository:** A place where files and folders for a project are stored and tracked, typically associated with a specific project.
+- **Repository:** A place where files and folders for a project are stored and tracked, typically associated with a specific project.
 
 ---
 
